@@ -1,0 +1,10 @@
+body{
+    background: rgb(8, 0, 0);
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 300px;
+}
