@@ -1,10 +1,19 @@
 body{margin: 0;}
 
-.main-bio{
-    margin: 0;
+main{
     background-color: black;
+    margin: 0;
+    padding: 20px;
 }
 
 .conteudo{
     margin: 0;
+}
+
+.tema1,
+.tema2,
+.tema3{
+    font-size: 3.0em;
+    padding: 100px;
+    color: aliceblue;
 }
