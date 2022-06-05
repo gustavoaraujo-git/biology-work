@@ -1,0 +1,42 @@
+body{margin: 0;}
+
+.principal{
+    background-color: rgb(44, 231, 44);
+}
+
+.cabecalho{
+background-color: rgb(44, 231, 44);
+}
+
+.menu-header{
+
+}
+
+.options{
+    display: flex;
+    flex-direction: row;
+    padding: 15px 0 15px 80px;
+    margin: 0;
+}
+
+.options > li{
+    text-decoration: none;
+    color: black;
+    padding: 0 60px;
+    list-style: none;
+    font-size: 1.0em;
+    align-items: center;
+    text-align: center;
+}
+
+
+.options > .inicio{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(14, 18, 119);
+    text-decoration: none;
+    padding: 0 60px;
+    font-size: 1.2em;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+}

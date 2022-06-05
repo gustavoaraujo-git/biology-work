@@ -8,3 +8,14 @@ main{
     align-items: center;
     padding-top: 300px;
 }
+
+.conteudo > a{
+    font-size: 1.8em;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover{
+    transition: 0.3s ease-in-out;
+    color: rgb(44, 231, 44);
+}
