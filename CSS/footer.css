@@ -1,0 +1,7 @@
+footer > h2{
+    margin: 0;
+    background: rgb(44, 231, 44);
+    font-size: 1.2em;
+    padding: 8px;
+    text-align: center;
+}
