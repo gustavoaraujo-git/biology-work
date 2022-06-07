@@ -10,10 +10,9 @@ main{
     margin: 0;
 }
 
-.tema1,
-.tema2,
 .tema3{
     font-size: 1.4em;
-    padding: 80px;
+    text-decoration: none;
     color: aliceblue;
+    padding: 400px 0;
 }
